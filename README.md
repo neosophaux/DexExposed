@@ -17,7 +17,7 @@ Usage: java -jar dxp.jar [options] INPUT FILE(S)
       Default: false
     -o, --output-dir
       Directory to output to.
-      Default: <Directory the jar is in>
+      Default: <Directory the jar is in>/output
 ```
 
 ## Note
